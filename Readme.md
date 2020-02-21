@@ -1,1 +1,1 @@
-Repo to store my learning and samples developed to learn design pattersn using C#
+Repo to store my learning and samples developed to learn design patterns using C#
