@@ -38,10 +38,10 @@ namespace DotNetDesignPatternDemos.Creational.Builder
   
   public class FunctionalBuilder
   {
-    public static void Main(string[] args)
-    {
-      var pb = new PersonBuilder();
-      var person = pb.Called("Dmitri").WorksAsA("Programmer").Build();
-    }
+    //public static void Main(string[] args)
+    //{
+    //  var pb = new PersonBuilder();
+    //  var person = pb.Called("Dmitri").WorksAsA("Programmer").Build();
+    //}
   }
 }
